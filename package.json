@@ -5,5 +5,8 @@
   "main": "container.js",
   "repository": "https://github.com/sssservices/container",
   "author": "Wilson Lewis <wilsonlewis@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@sssservices/support": "^0.0.1"
+  }
 }
