@@ -1,7 +1,8 @@
 {
   "name": "@sssservices/container",
   "version": "0.0.1",
-  "description": "The Sssservices Container package.",
+  "description":
+    "[READ ONLY] Subtree split of the Sssservices Container component (see @sssservices/framework)",
   "main": "container.js",
   "repository": "https://github.com/sssservices/container",
   "author": "Wilson Lewis <wilsonlewis@gmail.com>",
